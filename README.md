@@ -1,6 +1,6 @@
 # SalesInsightDashboard
 
-#Project Overview
+**Project Overview
 Project Name: SalesInsightDashboard
 Objective: Vrinda Stores aims to create an annual sales report to enhance sales strategies for the next year. This project involves data analysis and dashboard visualization based on the previous year's sales data from various online platforms.
 
